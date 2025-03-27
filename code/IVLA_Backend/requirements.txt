@@ -1,0 +1,6 @@
+fastapi==0.115.8
+FireWorks==2.0.4
+fireworks_ai==0.15.12
+pydantic==2.10.6
+youtube_transcript_api==0.6.3
+uvicorn[standard]==0.17.*
